@@ -41,6 +41,7 @@
 - notion
 - google-drive
 - postman
+- tencent-lemon
 
 ## GUI Apps
 
